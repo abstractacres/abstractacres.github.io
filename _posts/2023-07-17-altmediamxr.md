@@ -23,7 +23,8 @@ Link to recording
 Link to transcript [en]
 Link to transcript [sp]
 
-![test](../assets/2022-02-13-Show&Tell.png)
+![test](C:/Users/titimariamumu/Documents/GitHub/titimariamumu.github.io/assets/../../../../../../../../assets/2022-02-13-Show&Tell.png)
+
 
 img src="/assets/2022-02-13-Show&Tell.png"
      alt="Markdown Monster icon"
