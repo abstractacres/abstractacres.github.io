@@ -23,7 +23,7 @@ Link to recording
 Link to transcript [en]
 Link to transcript [sp]
 
-![test](Images/2022-02-13-Show&Tell.png)
+![test](/Users/titimariamumu/Documents/GitHub/titimariamumu.github.io/_posts/Images/2022-02-13-Show&Tell.png)
 
 
 img src="/assets/2022-02-13-Show&Tell.png"
