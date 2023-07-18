@@ -23,4 +23,8 @@ Link to recording
 Link to transcript [en]
 Link to transcript [sp]
 
-![test](../assets/minima-social-icons.svg)
+![test](../assets/2022-02-13-Show&Tell.png)
+
+img src="/assets/2022-02-13-Show&Tell.png"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
