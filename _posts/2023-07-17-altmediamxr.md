@@ -10,3 +10,17 @@ Diana Escamilla
 
 1. insert date - title 
 2. insert dates - title 
+
+Date: 2/13/2022
+Time: 12:00 PM PST / 2:00 PM CST / 3:00 PM EST
+Title: Show & Tell
+Organizer(s): 
+Platform: Zoom Video Conference
+Event description
+
+Link to flyer
+Link to recording
+Link to transcript [en]
+Link to transcript [sp]
+
+![test](../assets/minima-social-icons.svg)
