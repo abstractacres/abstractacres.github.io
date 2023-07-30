@@ -10,10 +10,10 @@ __
 
 Date: Fri May 29 2020 3 PM  
 Event Title: The first Altmediamxr (Alternative Media Mixer)  
-Co-organizer(s): Christian Morgan, Frances Woo
+Co-organizer(s): Christian Morgan, Frances Woo  
 Description: 
 
-! [Instagram flyer for first Altmediamxr](/assets/2020-03-29-First-Altmediamxr.png)
+![Instagram flyer for first Altmediamxr](/assets/2020-03-29-First-Altmediamxr.png)
 
 IMAGES:
 
