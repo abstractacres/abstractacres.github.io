@@ -8,17 +8,43 @@ then hit enter
 
 __
 
+# UNO  
+
 Date: May 29 2020 3 PM PST
 Event Title: The first Altmediamxr (Alternative Media Mixer)  
 Co-organizer(s): Christian Morgan, Frances Woo  
 
 ![Instagram flyer for first Altmediamxr](/assets/2020-03-29-First-Altmediamxr.png)
 
-Date: July 10 2020 10 AM PST
-Event Title: Altmediamxr: Let's talk about creating and imagining virtual spaces 
-Co-organizer(s): Christian Morgan, Frances Woo  
+# DOS  
 
-![Instagram flyer for first Altmediamxr](/assets/2022-06-10-Second-Altmediamxr.png)
+Date: July 10 2020 10 AM PST  
+Event Title: Altmediamxr: Let's talk about creating and imagining virtual spaces   
+Co-creator(s): Christian Morgan, Frances Woo  
+
+![Instagram flyer for second Altmediamxr](/assets/2022-06-10-Second-Altmediamxr.png)
+
+# TRES  
+
+Date: July 10 2020 10 AM PST  
+Event Title: Altmediamxr: Casting Call 
+Co-creatrs(s): Christian Morgan, Frances Woo 
+
+![Instagram flyer for third Altmediamxr](/assets/2020-08-02-Casting%20Call.jpg)
+
+# CUATRO
+
+![Instagram flyer for fourth Altmeidamxr](/assets/2020-9-29-Kiyomi.jpg)
+
+# CINCO
+
+![Instagram flyer for fifth Altmediamxr](../assets/2020-10-10-Nidhi.jpg)
+
+# SEIS
+
+![Instagram flyer for sixth Altmediamxr](../assets/2020-10-20-Jordan.jpg)
+
+# FINE
 
 ![Instagram flyer for Altmediamxr: Show & Tell](/assets/2022-02-13-Show&Tell.png)
 
