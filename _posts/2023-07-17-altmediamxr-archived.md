@@ -26,7 +26,7 @@ Co-creator(s): Christian Morgan, Frances Woo, Maya Partha, Farial Jackson
 ## TRES  
 
 Date: July 10, 2020 / 10 AM PST  
-Event Title: Altmediamxr: Casting Call 
+Event Title: Altmediamxr: Casting Call  
 Co-creatrs(s): Christian Morgan, Frances Woo 
 
 ![Instagram flyer for third Altmediamxr](/assets/2020-08-02-Casting%20Call.jpg)
