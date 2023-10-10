@@ -1,5 +1,32 @@
 ---
 layout: post 
 ---
+8:02 PM
 
-hello world 
+altmediamxr was a series of Zoom conference calls and iglives intended to strengthen student-run media mainly in California. These events began shortly after California’s initial shelter-in-place, March 19, 2020, in response to the Covid-19 Pandemic, and continued with the energy of the Black Lives Matter movement in response to the killing of George Floyd, May 25, 2022.
+
+Today, I changed the @altmediamxr instagram handle to @communication.garden. It bio reads, "Group-read new stories". And it is linked to a [survey](https://docs.google.com/forms/d/e/1FAIpQLSdaSoI-hJuGuhv8uwtjC1vaVLSO) with the description:
+
+>Guided group reading is a strategy teachers used to help children improve their reading skills. Communication.garden is an Google Meet video conference call and experiment in applying the power of group reading to all ages to help improve our news literacy. By filling this form you consent to being contacted by the host of communication.garden for more information.
+
+My goal is to etch out a vision for communication.garden here. 
+
+8:21 PM
+
+Although 
+- it may cost less time and resources for people to read and watch the news individually
+- it is each of our our civic duty to stay informed about the world around us
+- taking turns reading a text aloud in a circle is an excercise for children
+- it may be preferable to read silently and alone
+
+Reading a few news articles in small groups over Google Meet once week may be another option for those having trouble countering the decreased mental health affects of consuming overwheming amounts traumatic information because
+
+- Together we are stronger than the sum of our individual parts
+- online social interaction can feel good
+- We benefit from a diversity of of perspectives
+- We can hold each other accountable to our civic duty to stay informed about the world around us
+- We can remind each other that we are not alone
+
+9:14 PM
+
+This project may fail. It must support my academic journey and not cut into the boundaries of study time and other responsibilites. Or is may succeed. Not sure what that looks like. 
