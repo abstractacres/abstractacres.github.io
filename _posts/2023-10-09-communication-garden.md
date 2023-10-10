@@ -7,7 +7,7 @@ altmediamxr was a series of Zoom conference calls and iglives intended to streng
 
 Today, I changed the @altmediamxr instagram handle to @communication.garden. It bio reads, "Group-read new stories". And it is linked to a [survey](https://docs.google.com/forms/d/e/1FAIpQLSdaSoI-hJuGuhv8uwtjC1vaVLSO) with the description:
 
->Guided group reading is a strategy teachers used to help children improve their reading skills. Communication.garden is an Google Meet video conference call and experiment in applying the power of group reading to all ages to help improve our news literacy. By filling this form you consent to being contacted by the host of communication.garden for more information.
+>Guided group reading is a strategy teachers use to help children improve their reading skills. Communication.garden is an Google Meet video conference call and experiment in applying the power of group reading to all ages to help improve our news literacy. By filling this form you consent to being contacted by the host of communication.garden for more information.
 
 My goal is to etch out a vision for communication.garden here. 
 
@@ -35,7 +35,7 @@ This project may fail. It must support my academic journey and not cut into the 
 
 Today, at the library when I was supposed to studying precalculus I wrote:
 
-> What makes posting and viewing images and videos feel so 2-dimensional? Do we have time to live our lives online and offline? Who else is waiting for a permanent connection failure? Do we just want attention with immediate gratification? I'm online because I'm looking for people who would like to group-read the news on a video call. I imagine we'd take a news article and each read a sentence or two. We'd pause to define a word, find a location on a map, put a number into context with related date, or give a momoent of silence for those hurt, hungry, trapped, or dead we learn of.
+What makes posting and viewing images and videos feel so 2-dimensional? Do we have time to live our lives online and offline? Who else is waiting for a permanent connection failure? Do we just want attention with immediate gratification? I'm online because I'm looking for people who would like to group-read the news on a video call. I imagine we'd take a news article and each read a sentence or two. We'd pause to define a word, find a location on a map, put a number into context with related date, or give a momoent of silence for those hurt, hungry, trapped, or dead we learn of.
 
 
 
