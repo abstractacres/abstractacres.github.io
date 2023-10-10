@@ -5,7 +5,7 @@ layout: post
 
 altmediamxr was a series of Zoom conference calls and iglives intended to strengthen student-run media mainly in California. These events began shortly after California’s initial shelter-in-place, March 19, 2020, in response to the Covid-19 Pandemic, and continued with the energy of the Black Lives Matter movement in response to the killing of George Floyd, May 25, 2022.
 
-Today, I changed the @altmediamxr instagram handle to @communication.garden. It bio reads, "Group-read new stories". And it is linked to a [survey](https://docs.google.com/forms/d/e/1FAIpQLSdaSoI-hJuGuhv8uwtjC1vaVLSO) with the description:
+Today, I changed the @altmediamxr instagram handle to @communication.garden. It bio reads, "Group-read news stories". And it is linked to a [survey](https://docs.google.com/forms/d/e/1FAIpQLSdaSoI-hJuGuhv8uwtjC1vaVLSOu-l9YGTpB2BM1VAX_xDF_w/viewform?usp=sf_link) with the description:
 
 >Guided group reading is a strategy teachers use to help children improve their reading skills. Communication.garden is an Google Meet video conference call and experiment in applying the power of group reading to all ages to help improve our news literacy. By filling this form you consent to being contacted by the host of communication.garden for more information.
 
