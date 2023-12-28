@@ -2,4 +2,4 @@
 layout: post
 ---
 
-![alt text](../assets/giphy_1.gif)
+<img src="../assets/giphy_1.gif"/>
