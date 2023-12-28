@@ -3,9 +3,9 @@ layout: post
 ---
 
 
-![alt text](/assets/giphy1.gif)
+![alt text](/assets/giphy2.gif)
 
-Image Source: [Trevor Anderson on Giphy.com](https://giphy.com/gifs/geometric-shapes-cosmic-kTLvrIW9rOO9KgvM5P)
+Image Source: [Memmil on Giphy.com](https://giphy.com/gifs/walk-bw-blackandwhite-vkYfKH4Hz3ux7SU9f3)
 
 
 ### Intro
