@@ -16,7 +16,7 @@ At some point in time I broke the digitizer but not the screen of D's, my spouse
 
 
 
-<img src="/assets/Sketch.jpg"  width= "100"/>
+<img src="/assets/Sketch.jpg"  width= "40%"/>
 
 
 
