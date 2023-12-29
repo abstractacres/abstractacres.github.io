@@ -30,6 +30,7 @@ At some point in time I broke the my spouse's iPad Air Generation 4. The screen 
 - Sunction cups
 - Heat gun
 - Screen and digitizer replacement 
+- Isopropyl Alchohol 
 
 ### Process
 
@@ -41,16 +42,22 @@ Some reccommend to apply a heating element such as a heat gun to warm the adhesi
 
 I was nervous about potentially damaging, with heat or mechanically, the 
 
-- the ribbon cambles 
+- the ribbon cables 
 - dispay edge
 - light sensors
 - camera module 
   
 that sit milimeters away from the edge.
 
-D also set aside a camera camera grommet.
+D also set aside a camera grommet.
 
-**Step 2:**
+**Step 2:** Remove the screws securing the battery connector to the logic board and screws securing the display and digitizer cables.
+
+**Step 3:** Remove brackets 
+
+**Step 4:** Remove screen
+
+**Step 5:** Remove remaining adhesive with isopropyl alchohol 
 
 
 ### Conclusion
