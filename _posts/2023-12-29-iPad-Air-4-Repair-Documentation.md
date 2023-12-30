@@ -14,7 +14,7 @@ Image Source: [PiSlices on Giphy.com](https://giphy.com/gifs/trippy-glitch-blue-
 
 At some point in time I broke the my spouse's iPad Air Generation 4. The screen is in tact, but the digitizer needs to be replaced. I made the sketch below this past Wednesday, December 27, in support of my how-to-fix-an-iPad research. It's become an learning oppurtunity under a goal to better understand information technology.  Unfortunately, it's been nearly a year since I first promised to repair the iPad. Frusrated with my slow pace and procrastination, D, my spouse, started to repair the iPad last night. This blogpost is documentation of us finishing the job. 
 
-<img src="/assets/Sketch.jpg"  width= "1080px"/>
+<img src="/assets/Sketch.jpg"  width= "500px"/>
 
 ### Materials
 
@@ -68,5 +68,5 @@ D also set aside a camera grommet.
 
 ### Conclusion
 
-When we charged the iPad the touch screen, unfortuanately, did not work. This may mean I fobbed Step 6 and did not properly fasten the digitzer cables. This mistake is costly and requires us restart the process by opening the hood again. 
+When we charged the iPad and the touch screen, unfortuanately, did not work. This may mean I fobbed Step 6 and did not properly fasten the digitzer cables. This mistake is costly and requires us restart the process by opening the hood again. 
 
