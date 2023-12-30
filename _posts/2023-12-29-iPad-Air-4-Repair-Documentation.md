@@ -31,12 +31,13 @@ At some point in time I broke the my spouse's iPad Air Generation 4. The screen 
 - Heat gun
 - Screen and digitizer replacement 
 - Isopropyl Alchohol 
+- Q-tips
 
 ### Process
 
 We've used a handful of YouTube tutorials and this [IFIXITrepair guide](https://www.ifixit.com/Guide/iPad+Air+4+Screen+Replacement/156568) for guidance.
 
-**Step 1:** D used the opening tool to pry between the edges of the screen and its Rose Gold backing. An adhesive holds the two together. 
+**Step 1:** D used the opening tool to pry between the edges of the screen and its Rose Gold backing. An adhesive holds the two together. The iPad was without power for this step. 
 
 Some reccommend to apply a heating element such as a heat gun to warm the adhesive. And alternative to an opening tool one can use sunction cups. 
 
@@ -57,8 +58,15 @@ D also set aside a camera grommet.
 
 **Step 4:** Remove screen
 
-**Step 5:** Remove remaining adhesive with isopropyl alchohol 
+**Step 5:** Remove remaining adhesive with isopropyl alchohol and Q-tips
 
+**Step 6:** Fasten ribbon cables from the new screen and digitizer to the iPad backing
+
+**Step 7:** Screw brackets back in place
+
+**Step 8:** Remove seal from edges of the new screen and digitzers and attach to iPad backing
 
 ### Conclusion
+
+When we charged the iPad the touch screen, unfortuanately, did not work. This may mean I fobbed Step 6 and did not properly fasten the digitzer cables. This mistake is costly and requires us restart the process by opening the hood again. 
 
