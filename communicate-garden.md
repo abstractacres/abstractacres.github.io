@@ -5,15 +5,14 @@ permalink: /communicate-garden/
 
 ---
 
-Communicate Garden is a reading group 
-for those who want to
+Communicate Garden is a reading plan and group for those who want
 - to code
 - do math
 - understand how the internet works
-- learn new open source cyber security tools
-- explore the role of personal values and ethics in your career
-- study history with a technical lense
-- read a sci-fi screenplay
+- to learn new open source cyber security tools
+- to explore the role of personal values and ethics in your career
+- to study history with a technical lense
+- to read a sci-fi screenplay
 
 
 Email communicategarden@gmail.com for information about our bi-weekly video conferences.
