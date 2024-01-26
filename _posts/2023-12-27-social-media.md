@@ -7,14 +7,11 @@ layout: post
 
 Image Source: [Memmil on Giphy.com](https://giphy.com/gifs/walk-bw-blackandwhite-vkYfKH4Hz3ux7SU9f3)
 
+I live on an island and sometimes I hope
+If disaster strikes and cellular systems overload<br>
+digital networks may hold<br>
 
-IF disaster strikes and cellular systems overload<br>
-Digital networks may hold<br>
-
-today the attention the economy <br>
-can go ahead and
-compete with my sense of autonomy<br>
-
+Today I live in peace and normalcy
 Love feels a liked post<br>
 Yet it connects 
 my 3-dimensional heart 
