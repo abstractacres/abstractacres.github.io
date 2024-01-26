@@ -11,10 +11,10 @@ I live on an island and sometimes I hope<br>
 If disaster strikes and cellular systems overload<br>
 digital networks may hold<br>
 
-Today I live in peace and normalcy
-Love feels a liked post<br>
-Yet it connects 
-my 3-dimensional heart 
+Today I live in peace and normalcy<br>
+Love feels like a liked post<br>
+Yet it connects <br>
+my 3-dimensional heart <br>
 coast to coast<br>
 
 
