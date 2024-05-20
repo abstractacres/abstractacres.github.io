@@ -5,4 +5,4 @@ permalink: /about/
 
 ---
 
-This is a blog for engineers of ethical agricultural technology by Christian Maria Adams (also known as Titi). 
+Hello! My name is Christian. I also go by Titi. Welcome! This is a blog for engineers of ethical agricultural technology.
