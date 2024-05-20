@@ -5,4 +5,4 @@ permalink: /about/
 
 ---
 
-This is the personal website of Christian Morgan, nickname Titi. 
+This is a blog for engineers of ethical agricultural technology by Christian Maria Adams also known as Titi. 
