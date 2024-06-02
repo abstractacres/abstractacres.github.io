@@ -5,4 +5,4 @@ permalink: /about/
 
 ---
 
-Hello! My name is Christian. I also go by Titi. Welcome! This is a blog for engineers of ethical agricultural technology.
+Hello! Welcome! My name is Christian. I am patio gardener and student of engineering. This blog is for anyone interested in agricultural technology. 
