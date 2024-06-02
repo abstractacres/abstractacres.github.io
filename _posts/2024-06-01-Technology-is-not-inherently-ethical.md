@@ -5,6 +5,6 @@ layout: post
 {%- include mathjax.html -%}
 
 
-![alt text](/assets/giphy4.gif)
+![alt text](/assets/pinkrobotincornmaze.jpg)
 
 Image Source:
