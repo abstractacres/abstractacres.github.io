@@ -42,7 +42,7 @@ According to the framework of thinking established in this blogpost, “ethical�
 
 [^1]: Woodward, Lawrence, and Pat Thomas. “The Agroecotech Trap.” A Bigger Conversation, 14 Jan. 2022, https://www.abiggerconversation.org/the-agroecotech-trap/
 [^2]: Systems Innovation Network. “Integrated Systems.” YouTube, YouTube, 25 Sept. 2016, https://www.youtube.com/watch?v=dD_D2X5ljgQ&list=PLOB32hTn5Lt-aA9Q4HccYZo03B11EmSHv&index=26. 
-[^3]: Zeihan
+[^3]: Zeihan, Peter. “The Solar Power Problem(s).” Zeihan on Geopolitics, 26 Sept. 2023, https://www.zeihan.com/the-solar-power-problems/. 
 [^4]: Evans, Alan, et al. Technology in Action. 17th ed., Pearson, 2022.
 [^5]: Hare, Stephanie. Technology Is Not Neutral A Short Guide to Technology Ethics. London Publishing Partnership, 2022. 
 [^6]: Van der Burg, Simone, et al. “Ethical aspects of AI Robots for Agri-Food; a relational approach based on four case studies.” AI &amp; SOCIETY, vol. 39, no. 2, 1 Apr. 2022, pp. 541–555, https://doi.org/10.1007/s00146-022-01429-8. 
