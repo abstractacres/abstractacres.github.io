@@ -36,4 +36,4 @@ References:
 
 [^1]: F. Awuor, K. Kimeli, K. Rabah and D. Rambim, "ICT solution architecture for agriculture," 2013 IST-Africa Conference & Exhibition, Nairobi, Kenya, 2013, pp. 1-7., [https://ieeexplore.ieee.org/document/6701752](https://ieeexplore.ieee.org/document/6701752).
 [^2]: Appleton, Maggie. “A Brief History & Ethos of the Digital Garden.” Maggie Appleton, n.d., [maggieappleton.com/garden-history](https://maggieappleton.com/garden-history). 
-[^3]: Hansteen-Izora, Annika. “On Digital Gardens: Tending to Our Collective Multiplicity.” Deem,n.d., [www.deemjournal.com/stories/digital-gardens](www.deemjournal.com/stories/digital-gardens). 
+[^3]: Hansteen-Izora, Annika. “On Digital Gardens: Tending to Our Collective Multiplicity.” Deem,n.d., [www.deemjournal.com/stories/digital-gardens](https://www.deemjournal.com/stories/digital-gardens). 
