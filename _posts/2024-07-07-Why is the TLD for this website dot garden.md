@@ -2,27 +2,17 @@ A TLD or Top-Level Domain, such as ".com" for "company" or ".edu" for "education
 
 The following is a list of plants under my care:
 
-Ghost plant, *Graptopetalum paraguayense*
-
-Black prince, *Echeveria*
-
-Prickly Pear, *Opuntia ficus-indica*
-
-Aloe vera
-
-Tree philodendron, *Philodendron bipinnatifidum*
-
-Rubber plant, *Ficus elastica*
-
-Corn plant, *Dracaena fragrans*
-
-Swiss cheese plant, *Monstera deliciosa* 
-
-Fiddle-leaf fig, *Ficus lyrata*
-
-Snake plant, *Sansevieria trifasciata*
-
-ZZ plant, *Zamioculcas zamiifolia*
+- Ghost plant, *Graptopetalum paraguayense*
+- Black prince, *Echeveria*
+- Prickly Pear, *Opuntia ficus-indica*
+- Aloe vera
+- Tree philodendron, *Philodendron bipinnatifidum*
+- Rubber plant, *Ficus elastica*
+- Corn plant, *Dracaena fragrans*
+- Swiss cheese plant, *Monstera deliciosa* 
+- Fiddle-leaf fig, *Ficus lyrata*
+- Snake plant, *Sansevieria trifasciata*
+- ZZ plant, *Zamioculcas zamiifolia*
 
 Additionally, the care in the writing process and website management behind Communicate.garden make it a "digital garden". 
 
