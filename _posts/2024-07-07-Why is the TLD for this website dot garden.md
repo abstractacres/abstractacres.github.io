@@ -1,3 +1,5 @@
+![Blogpost author sits amongst plants while giving a shaka](/assets/whydotgarden.jpg)
+
 A TLD or Top-Level Domain, such as ".com" for "company" or ".edu" for "education", categorizes a website.  My domain name ends in ".garden" because this website represents my research garden: a handful of potted plants on a lanai in Honolulu. Additionally, Communicate.garden is a "digital garden". This is the space, online and in physical reality,  I have to further knowledge about information and communication technologies (ICTs) in agriculture. 
 
 The following is a list of plants under my care:
