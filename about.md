@@ -5,4 +5,4 @@ permalink: /about/
 
 ---
 
-This is the personal website of Christian Morgan, nickname Titi. 
+Hello! Welcome! My name is Christian. I am a patio gardener and student of engineering. This is a open journal about the role of information and communication technologies in the cultivation of plants and animals. 
