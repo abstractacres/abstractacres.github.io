@@ -32,7 +32,7 @@ Globally and in my research garden, how we should control our water usage should
 I invite you to share your reactions, thoughts, ideas, questions, and criticisms to this blog post on Reddit. 
 
 [^1]: Angelakis,A.N.;Valipour, M.; Ahmed, A.T.; Tzanakakis, V.; Paranychianakis, N.V.; Krasilnikoff, J.; Drusiani, R.; Mays, L.; El Gohary, F.; Koutsoyiannis, D.; et al. Water Conflicts: From Ancient to Modern Times and in the Future. Sustainability 2021,13,4237. https://doi.org/ 10.3390/su13084237
-[^2]: Water Science School. “How Much Water Is There on Earth?” How Much Water Is There on Earth? | U.S. Geological Survey, U.S. Geological Survey, 13 Nov. 2019, www.usgs.gov/special-topics/water-science-school/science/how-much-water-there-earth. 
+[^2]: Water Science School. “How Much Water Is There on Earth?” How Much Water Is There on Earth?, U.S. Geological Survey, U.S. Geological Survey, 13 Nov. 2019, www.usgs.gov/special-topics/water-science-school/science/how-much-water-there-earth. 
 [^3]: Chhimcanal, Bunneam. “Farming Practices and Implications for Water Quality and Sustainability on Oʻahu, Hawaiʻi.” University of Hawaiʻi at Mānoa, 2024. 
 [^4]: Waalewijn, Pieter. “ Reformulating the value proposition of water in agriculture under changing conditions.” Irrigation and Drainage , Jan. 2021, https://doi.org/10.1002/ird.2569. 
 [^5]: Obaideen, Khaled, et al. “An overview of smart irrigation systems using IOT.” Energy Nexus, vol. 7, Sept. 2022, p. 100124, https://doi.org/10.1016/j.nexus.2022.100124.
