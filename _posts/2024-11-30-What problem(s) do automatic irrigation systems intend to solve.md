@@ -32,7 +32,7 @@ Measuring water usage supports accountability in water governance processes.  Cu
 
 Globally and in my research garden, how we should control our water usage should be based on quality water data. For Communicate.garden, the technology I'm using to irrigate is imprecise and potentially wasteful, my irrigation scheldule is random, my plants require different amounts of water at different times, and there is no system in place to evaluate in real-time how much water is used to support better water governance. The purpose of this blog post was to think about my garden's need for water while relating to the problem of global and regional agricultural needs for water. 
  
-I invite you to share your reactions, thoughts, ideas, questions, and criticisms to this blog post on Reddit. 
+I invite you to share your reactions, thoughts, ideas, questions, and criticisms to this blog post on [Reddit](https://www.reddit.com/u/aguadulce0000/s/mfJIrht4FI). 
 
 [^1]: Angelakis,A.N.;Valipour, M.; Ahmed, A.T.; Tzanakakis, V.; Paranychianakis, N.V.; Krasilnikoff, J.; Drusiani, R.; Mays, L.; El Gohary, F.; Koutsoyiannis, D.; et al. Water Conflicts: From Ancient to Modern Times and in the Future. Sustainability 2021,13,4237. https://doi.org/ 10.3390/su13084237
 [^2]: Water Science School. “How Much Water Is There on Earth?” How Much Water Is There on Earth?, U.S. Geological Survey, U.S. Geological Survey, 13 Nov. 2019, www.usgs.gov/special-topics/water-science-school/science/how-much-water-there-earth. 
