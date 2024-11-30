@@ -1,4 +1,4 @@
-My plants need more attention. Inspired by [Grady Hillhouse](www.youtube.com/watch?v=O_Q1WKCtWiA),  I have challenged myself to build an automatic irrigation system.
+My plants need more attention. Inspired by [Grady Hillhouse](https://www.youtube.com/watch?v=O_Q1WKCtWiA),  I have challenged myself to build an automatic irrigation system.
 
  The first step of the [engineering design process](https://www.youtube.com/watch?v=MFGg1calQ6k) is problem definition. Before jumping into the fun of building an automatic irrigation system for Communicate.garden, we must understand what problem we're addressing. This prevents wasted time, energy, and resources. 
 
