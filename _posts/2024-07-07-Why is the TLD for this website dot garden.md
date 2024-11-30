@@ -1,5 +1,7 @@
 ![A collage of potted plants on a balcony](/assets/Tld.jpg)
 
+This website fits under the category of ".garden" because Communicate.garden is a digital garden about a research garden. 
+
 A TLD or Top-Level Domain, such as ".com" for "company" or ".edu" for "education", categorizes a website.  My domain name ends in ".garden" because this website represents my research garden: a handful of potted plants on a lanai in Honolulu. Additionally, Communicate.garden is a "digital garden". This is the space, online and in physical reality,  I have to further knowledge about information and communication technologies (ICTs) in agriculture. 
 
 The following is a list of plants under my care:
@@ -20,7 +22,6 @@ Communicate.garden will document my experience building and implementing ICTs in
 
 The care in the writing process and website management behind Communicate.garden makes it a "digital garden". The definition of a "digital garden" is flexible. The idea of a digital garden began with Mark Bernstein’s 1998 essay “Hypertext Gardens”[^2]. "Hypertext Gardens" refer to how hyperlinking changed the structure of a website so that users could better wander and explore. Today, most digital gardens differ from blogs in that they are non-linear, imperfect presentations of one's thoughts over time. Communicate.garden borrows from the art director, designer, and poet, Annika-Hansteen Izora who recently listed 8 values that guided her understanding of "digital gardens" in her article, "On Digital Gardens: Tending to Our Collective Multiplicity"[^3]. Read more about our values [here](communicate.garden/2024/11/27/Values.html).
 
-This website fits under the category of ".garden" because Communicate.garden is a digital garden about a research garden. 
 
 References:
 
