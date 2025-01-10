@@ -5,10 +5,11 @@ Reading Why Build an Automatic Watereing System Part 1 [here](https://communicat
 I was first inspired to build an automatic irrigation system by watching Grady Hillhouse's YouTube video, [Arduino Garden Controller - Automatic Watering and Data Logging](https://www.youtube.com/watch?v=O_Q1WKCtWiA). He concluded the video with the idea that the Arduino is one of many products marketed to "makers" and that these products are solutions looking for problems. Hillhouse's words resonate as I attempt to tackle the question, "Why build an automatic irrigation system?" for the second time. 
 
 In my previous blog post, I pointed in many directions to define my problem. I offered that my plants were dying due to:
- the inefficient design of the watering can
-the fact that as a human I am undependable
-water scarcity 
-lack of metrics and accountability
+
+- the inefficient design of the watering can
+- the fact that as a human I am undependable
+- water scarcity 
+- lack of metrics and accountability
 
 November 26, 2024 I decided to improve overall as a gardener and start to log when I watered my plants and what phenomena I observed. The results are in the table below:
 
