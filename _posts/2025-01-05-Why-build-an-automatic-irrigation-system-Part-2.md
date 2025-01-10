@@ -48,11 +48,11 @@ This [map](https://geoportal.hawaii.gov/datasets/HiStateGIS::agricultural-land-u
 >
 >This means it costs \\$56.48 - \\$112.97 to water an acre of pineapples for a month. 
 >
->Let's multiply the range by our 2,745.55 acres of pineapples to get:
+>Let's multiply the range by 2,745.55 acres of pineapples to get:
 >
 >\\$155,071.41 - \\$310,164.78
 >
->Then divide the range by 4 to convert the units dollars per week.
+>Then divide the range by 4 to convert the units to dollars per week.
 >
 >\\$38,767.85 - \\$77,541.20
 
