@@ -34,7 +34,7 @@ This [map](https://geoportal.hawaii.gov/datasets/HiStateGIS::agricultural-land-u
 >
 >47,000 - 94,000 L/1 hectare /week --> 5, 025 - 10,051 gal/ acre/ week
 >
->According to the Board of Water Supply's Agricultural Rates, each dwelling using 6,000 gal/month or >more starting July 1, 2025, will be charged $2.81 per thousand gallons.
+>According to the Board of Water Supply's Agricultural Rates, each dwelling using 6,000 gal/month or >more starting July 1, 2025, will be charged \\$2.81 per thousand gallons.
 >
 >Let's multiply the range by 4 to convert our units to gallons per acre per month. 
 >
@@ -42,18 +42,18 @@ This [map](https://geoportal.hawaii.gov/datasets/HiStateGIS::agricultural-land-u
 >
 >Now let's convert are units to every thousand gallons per acre per month, multiply by the rate, and >round to the nearest penny.. 
 >
->20.1 kgal * 2.81 = $56.48
->40.204 kgal * 2.81 = $112.97
+>20.1 kgal * 2.81 = \\$56.48
+>40.204 kgal * 2.81 = \\$112.97
 >
 >This means it costs $56.48 - $112.97 to water an acre of pineapples for a month. 
 >
 >Let's multiply the range by our 2,745.55 acres of pineapples to get:
 >
->$155,071.41 - $310,164.78
+>\\$155,071.41 - \\$310,164.78
 >
 >Then divide the range by 4 to convert the units dollars per week.
 >
->$38,767.85 - $77,541.20
+>\\$38,767.85 - \\$77,541.20
 
 
 According to Claude.ai, a pineapple farmer may harvest 15,000-20,000 pineapples per acre every 3-4 years. Pineapples cost about \\$6 at Amazon Whole Foods. Using those numbers, a 2,745.55-acre farm may generate \\$250 - \\$330 M in revenue. Using the dollar range I calculated for water cost per week, I estimate it could cost \\$6 - \\$16 M to water one's pineapple farm until the first harvest assuming the farm was irrigated year-round.
