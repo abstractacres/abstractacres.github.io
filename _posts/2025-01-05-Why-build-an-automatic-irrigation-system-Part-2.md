@@ -1,6 +1,6 @@
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXl1cDRjMW9wOWw3a3Vsa3plNGdjb2NraG5rajFxcTE3emZlNGpubyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/G0Odfjd78JTpu/giphy.gif">
 
-Read Why Build an Automatic Watering System Part 1 [here](https://communicate.garden/2024/11/30/Why-build-an-automatic-irrigation-system-Part-1.html).
+Read Why Build an Automatic Irrigation System Part 1 [here](https://communicate.garden/2024/11/30/Why-build-an-automatic-irrigation-system-Part-1.html).
 
 I was first inspired to build an automatic irrigation system by watching Grady Hillhouse's YouTube video, [Arduino Garden Controller - Automatic Watering and Data Logging](https://www.youtube.com/watch?v=O_Q1WKCtWiA). He concluded the video with the idea that the Arduino is one of many products marketed to "makers" and that these products are solutions looking for problems. Hillhouse's words resonate as I attempt to tackle the question, "Why build an automatic irrigation system?" for the second time. 
 
