@@ -40,7 +40,7 @@ This [map](https://geoportal.hawaii.gov/datasets/HiStateGIS::agricultural-land-u
 >
 >20,100-40,204 gal/acre/month
 >
->Now let's convert are units to every thousand gallons per acre per month, multiply by the rate, and round to the nearest penny.. 
+>Now let's convert our units to every thousand gallons per acre per month, multiply by the rate, and round to the nearest penny.
 >
 >20.1 kgal * 2.81 = \\$56.48
 >
