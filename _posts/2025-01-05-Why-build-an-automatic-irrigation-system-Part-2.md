@@ -14,9 +14,9 @@ November 26, 2024 I decided to improve overall as a gardener and start to log wh
 | -------- | ------- | -------- | ------- | -------- | ------- | 
 | Ghost Plant  | *Graptopetalum paraguayense*    | Indoors, 21 leaves, attracted cobwebs. | The top of the stem broke off. 16 leaves. |15 leaves. | 15 leaves. Looks droopy. Moved outside.|
 | Black Prince | *Echeveria*     | Lost one of two plants. | 20 leaves. | Looks more green than purple.| No observable changes|
-| Prickly Pear | *Opuntia ficus-indica* | Maybe suffering stem rot. Broke in half and has an exposed wound. Repotted today. Looks dead. |  | |  |  |  |
+| Prickly Pear | *Opuntia ficus-indica* | Maybe suffering stem rot. Broke in half and has an exposed wound. Repotted today. Looks dead. |  
 | Aloe vera | *Aloe vera*     | 30 plants, dehydrated. | Aloe in blue pot has no drainage and has gained a fly problem. | Looks vibrant. | No observable change. | 
-| Split-leaf Philodendron | *Philodendron bipinnatifidum*     |  one green stem, short |  |. |  | 
+| Split-leaf Philodendron | *Philodendron bipinnatifidum*     |  one green stem, short | 
 | Rubber plant    | *Ficus elastica* | All leaves are curled inward, although not fallen off, and look recoverable with regular watering.  | Leaves unfurl. 11 leaves, 4 buds.| 13 leaves, 5 buds. | 21 leaves, 4 buds. I removed a few mealy bugs on young leaves.| 
 | Corn plant    | *Dracaena fragrans* |Many leaves are damaged, likely by wind. Still continues to grow new leaves.  | 5 undamaged leaves total. Several dried and on yellowing.| Dried, dead leaves removed. Sprayed with neem oil. | 
 | Swiss Cheese Plant |*Monstera deliciosa* | 4 leaves. One leaf is rotting with white fuzzy mealy bugs around its veins. | May need to remove leaf overcome by mealy bugs. | A new leaf is emerging. | New leaf fully emerged. Mealybugs are on all leaves, two must be cut. I used neem oil and a paper towel to wipe away the pest 3 leaves total.|
