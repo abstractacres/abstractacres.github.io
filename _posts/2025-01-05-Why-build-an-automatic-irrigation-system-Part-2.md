@@ -1,6 +1,6 @@
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXl1cDRjMW9wOWw3a3Vsa3plNGdjb2NraG5rajFxcTE3emZlNGpubyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/G0Odfjd78JTpu/giphy.gif">
 
-Reading Why Build an Automatic Watereing System Part 1 [here](https://communicate.garden/2024/11/30/Why-build-an-automatic-irrigation-system-Part-1.html).
+Read Why Build an Automatic Watereing System Part 1 [here](https://communicate.garden/2024/11/30/Why-build-an-automatic-irrigation-system-Part-1.html).
 
 I was first inspired to build an automatic irrigation system by watching Grady Hillhouse's YouTube video, [Arduino Garden Controller - Automatic Watering and Data Logging](https://www.youtube.com/watch?v=O_Q1WKCtWiA). He concluded the video with the idea that the Arduino is one of many products marketed to "makers" and that these products are solutions looking for problems. Hillhouse's words resonate as I attempt to tackle the question, "Why build an automatic irrigation system?" for the second time. 
 
@@ -36,7 +36,6 @@ I used claude.ai to convert the units for CTHAR's recommended amount of water ne
 47,000 - 94,000 L/1 hectare /week --> 5, 025 - 10,051 gal/ acre/ week
 
 According to the Board of Water Supply's Agricultural Rates, each dwelling using 6,000 gal/month or more starting July 1, 2025, will be charged $2.81 per thousand gallons.
-
 
 Let's multiply the range by 4 to convert our units to gallons per acre per month. 
 
