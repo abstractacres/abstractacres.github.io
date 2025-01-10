@@ -43,6 +43,7 @@ This [map](https://geoportal.hawaii.gov/datasets/HiStateGIS::agricultural-land-u
 >Now let's convert are units to every thousand gallons per acre per month, multiply by the rate, and round to the nearest penny.. 
 >
 >20.1 kgal * 2.81 = \\$56.48
+>
 >40.204 kgal * 2.81 = \\$112.97
 >
 >This means it costs \\$56.48 - \\$112.97 to water an acre of pineapples for a month. 
