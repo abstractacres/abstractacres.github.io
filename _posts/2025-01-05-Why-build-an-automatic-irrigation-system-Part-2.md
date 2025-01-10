@@ -34,7 +34,7 @@ This [map](https://geoportal.hawaii.gov/datasets/HiStateGIS::agricultural-land-u
 >
 >47,000 - 94,000 L/1 hectare /week --> 5, 025 - 10,051 gal/ acre/ week
 >
->According to the Board of Water Supply's Agricultural Rates, each dwelling using 6,000 gal/month or >more starting July 1, 2025, will be charged \\$2.81 per thousand gallons.
+>According to the Board of Water Supply's Agricultural Rates, each dwelling using 6,000 gal/month or more starting July 1, 2025, will be charged \\$2.81 per thousand gallons.
 >
 >Let's multiply the range by 4 to convert our units to gallons per acre per month. 
 >
