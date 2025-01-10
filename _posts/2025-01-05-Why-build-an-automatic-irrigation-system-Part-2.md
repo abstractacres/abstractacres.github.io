@@ -28,7 +28,7 @@ November 26, 2024 I decided to improve overall as a gardener and start to log wh
 
 I've taken responsibility for the intrinsically valuable lives of my plants and have noticed improvements in their health. I've learned that at a small scale, such as a balcony garden, human labor, time, and water aren't major costs. According to the 2023 [water rates](https://www.boardofwatersupply.com/bws/media/files/Honolulu-BWS-Rate-Handout_Feb2024_revAPR2024_1.pdf) provided by the Honolulu Board of Water Supply, the three gallons of tap water I give to the garden week costs about a cent. A professor of mine advised me to think of the persona of the person whose problem I'm trying to solve. If I were a farmer in Hawai'i, water would be one of the many costs of producing a crop. In addition to direct costs such as water, seeds, and fertilizer, there are operating (land costs, insurance, phone, marketing, transportation, etc) and capital costs (equipment, wash station, buildings, etc). [^1] 
 
-This [map](https://geoportal.hawaii.gov/datasets/HiStateGIS::agricultural-land-use-2020-update/explore?location=21.532089%2C-158.037472%2C13.71) from the Hawaii Statewide GIS Program shows 2,745.55 acres of pineapples grown in Northshore O'ahu alongside Kamehameha highway. According to data from a nearby rain gauge, found on this [map](https://geoportal.hawaii.gov/datasets/ed0eca4ac4554febb86e0df2d30c59df_27/explore?location=21.474988%2C-158.059204%2C12.39), the area receives 1,062.38 mm of rainfall annually. 600 mm of rainfall a year is adequate for growing pineapples. In 2002, the College of Tropical Agriculture and Human Resources (CTHAR) at the University of Hawai'i - Manoa recommended drip irrigating pineapples with "47,000–94,000 liters of water per hectare per week" during periods of less rain. [^2] It could cost about $40-80K to water 2,745.55 acres of pineapples. Below is how attained that dollar value: 
+This [map](https://geoportal.hawaii.gov/datasets/HiStateGIS::agricultural-land-use-2020-update/explore?location=21.532089%2C-158.037472%2C13.71) from the Hawaii Statewide GIS Program shows 2,745.55 acres of pineapples grown in Northshore O'ahu alongside Kamehameha highway. According to data from a nearby rain gauge, found on this [map](https://geoportal.hawaii.gov/datasets/ed0eca4ac4554febb86e0df2d30c59df_27/explore?location=21.474988%2C-158.059204%2C12.39), the area receives 1,062.38 mm of rainfall annually. 600 mm of rainfall a year is adequate for growing pineapples. In 2002, the College of Tropical Agriculture and Human Resources (CTHAR) at the University of Hawai'i - Manoa recommended drip irrigating pineapples with "47,000–94,000 liters of water per hectare per week" during periods of less rain. [^2] It could cost about $40-80K to water 2,745.55 acres of pineapples. Below is how I attained that dollar value: 
 
 >I used claude.ai to convert the units for CTHAR's recommended amount of water needed to irrigate >pineapples from liters per hectare to gallons per acre. 
 >
@@ -45,7 +45,7 @@ This [map](https://geoportal.hawaii.gov/datasets/HiStateGIS::agricultural-land-u
 >20.1 kgal * 2.81 = \\$56.48
 >40.204 kgal * 2.81 = \\$112.97
 >
->This means it costs $56.48 - $112.97 to water an acre of pineapples for a month. 
+>This means it costs \\$56.48 - \\$112.97 to water an acre of pineapples for a month. 
 >
 >Let's multiply the range by our 2,745.55 acres of pineapples to get:
 >
