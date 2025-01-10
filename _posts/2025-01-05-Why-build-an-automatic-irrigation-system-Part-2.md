@@ -55,7 +55,7 @@ Then divide the range by 4 to convert the units dollars per week.
 $38,767.85 - $77,541.20
 
 ```
-According to Claude.ai, a pineapple farmer may harvest 15,000-20,000 pineapples per acre every 3-4 years. Pineapples cost about $6 at Amazon Whole Foods. Using those numbers, a 2,745.55-acre farm may generate $250 - $330 M in revenue. Using the dollar range I calculated for water cost per week, I estimate it could cost $6 - $16 M to water one's pineapple farm until the first harvest assuming the farm was irrigated year-round.
+According to Claude.ai, a pineapple farmer may harvest 15,000-20,000 pineapples per acre every 3-4 years. Pineapples cost about /$6 at Amazon Whole Foods. Using those numbers, a 2,745.55-acre farm may generate $250 - $330 M in revenue. Using the dollar range I calculated for water cost per week, I estimate it could cost $6 - $16 M to water one's pineapple farm until the first harvest assuming the farm was irrigated year-round.
 
 I believe our problem is that we must simulate perfect weather conditions without a true ability to control the weather for optimal plant growth. A traditional drip irrigation system runs on a schedule whereas an automatic irrigation system is soil moisture sensor-based. Given that rainfall varies throughout the year, there is an opportunity to save on water from the Board of Water Supply System, by having irrigation systems able to turn off when detecting rainfall. An automatic irrigation system still may be too expensive to justify the savings in water use.
 
