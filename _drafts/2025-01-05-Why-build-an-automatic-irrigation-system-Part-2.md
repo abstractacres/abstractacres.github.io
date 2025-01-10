@@ -1,4 +1,4 @@
-<iframe src="https://giphy.com/embed/G0Odfjd78JTpu" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/water-green-plants-G0Odfjd78JTpu">via GIPHY</a></p>
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXl1cDRjMW9wOWw3a3Vsa3plNGdjb2NraG5rajFxcTE3emZlNGpubyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/G0Odfjd78JTpu/giphy.gif">
 
 I was first inspired to build an automatic irrigation system by watching Grady Hillhouse's YouTube video, [Arduino Garden Controller - Automatic Watering and Data Logging](https://www.youtube.com/watch?v=O_Q1WKCtWiA). He concluded the video with the idea that the Arduino is one of many products marketed to "makers" and that these products are solutions looking for problems. Hillhouse's words resonate as I attempt to tackle the question, "Why build an automatic irrigation system?" for the second time. 
 
