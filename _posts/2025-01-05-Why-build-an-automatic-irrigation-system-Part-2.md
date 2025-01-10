@@ -30,9 +30,9 @@ I've taken responsibility for the intrinsically valuable lives of my plants and 
 
 This [map](https://geoportal.hawaii.gov/datasets/HiStateGIS::agricultural-land-use-2020-update/explore?location=21.532089%2C-158.037472%2C13.71) from the Hawaii Statewide GIS Program shows 2,745.55 acres of pineapples grown in Northshore O'ahu alongside the Kamehameha highway. According to data from a nearby rain gauge, found on this [map](https://geoportal.hawaii.gov/datasets/ed0eca4ac4554febb86e0df2d30c59df_27/explore?location=21.474988%2C-158.059204%2C12.39), the area receives 1,062.38 mm of rainfall annually. 600 mm of rainfall a year is adequate for growing pineapples. In 2002, the College of Tropical Agriculture and Human Resources (CTHAR) at the University of Hawai'i - Manoa recommended drip irrigating pineapples with "47,000–94,000 liters of water per hectare per week" during periods of less rain. [^2] It could cost about $40-80K to water 2,745.55 acres of pineapples. Below is how I attained that dollar value: 
 
->I used claude.ai to convert the units for CTHAR's recommended amount of water needed to irrigate >pineapples from liters per hectare to gallons per acre. 
+>I used claude.ai to convert the units for CTHAR's recommended amount of water needed to irrigate pineapples from liters per hectare to gallons per acre. 
 >
->47,000 - 94,000 L/1 hectare /week --> 5, 025 - 10,051 gal/ acre/ week
+>47,000 - 94,000 L/hectare/week --> 5,025 - 10,051 gal/acre/week
 >
 >According to the Board of Water Supply's Agricultural Rates, each dwelling using 6,000 gal/month or more starting July 1, 2025, will be charged \\$2.81 per thousand gallons.
 >
@@ -40,7 +40,7 @@ This [map](https://geoportal.hawaii.gov/datasets/HiStateGIS::agricultural-land-u
 >
 >20,100-40,204 gal/acre/month
 >
->Now let's convert are units to every thousand gallons per acre per month, multiply by the rate, and >round to the nearest penny.. 
+>Now let's convert are units to every thousand gallons per acre per month, multiply by the rate, and round to the nearest penny.. 
 >
 >20.1 kgal * 2.81 = \\$56.48
 >40.204 kgal * 2.81 = \\$112.97
