@@ -30,33 +30,32 @@ I've taken responsibility for the intrinsically valuable lives of my plants and 
 
 This [map](https://geoportal.hawaii.gov/datasets/HiStateGIS::agricultural-land-use-2020-update/explore?location=21.532089%2C-158.037472%2C13.71) from the Hawaii Statewide GIS Program shows 2,745.55 acres of pineapples grown in Northshore O'ahu alongside Kamehameha highway. According to data from a nearby rain gauge, found on this [map](https://geoportal.hawaii.gov/datasets/ed0eca4ac4554febb86e0df2d30c59df_27/explore?location=21.474988%2C-158.059204%2C12.39), the area receives 1,062.38 mm of rainfall annually. 600 mm of rainfall a year is adequate for growing pineapples. In 2002, the College of Tropical Agriculture and Human Resources (CTHAR) at the University of Hawai'i - Manoa recommended drip irrigating pineapples with "47,000–94,000 liters of water per hectare per week" during periods of less rain. [^2] It could cost about $40-80K to water 2,745.55 acres of pineapples. Below is how attained that dollar value: 
 
-```
-I used claude.ai to convert the units for CTHAR's recommended amount of water needed to irrigate pineapples from liters per hectare to gallons per acre. 
+>I used claude.ai to convert the units for CTHAR's recommended amount of water needed to irrigate >pineapples from liters per hectare to gallons per acre. 
+>
+>47,000 - 94,000 L/1 hectare /week --> 5, 025 - 10,051 gal/ acre/ week
+>
+>According to the Board of Water Supply's Agricultural Rates, each dwelling using 6,000 gal/month or >more starting July 1, 2025, will be charged $2.81 per thousand gallons.
+>
+>Let's multiply the range by 4 to convert our units to gallons per acre per month. 
+>
+>20,100-40,204 gal/acre/month
+>
+>Now let's convert are units to every thousand gallons per acre per month, multiply by the rate, and >round to the nearest penny.. 
+>
+>20.1 kgal * 2.81 = $56.48
+>40.204 kgal * 2.81 = $112.97
+>
+>This means it costs $56.48 - $112.97 to water an acre of pineapples for a month. 
+>
+>Let's multiply the range by our 2,745.55 acres of pineapples to get:
+>
+>$155,071.41 - $310,164.78
+>
+>Then divide the range by 4 to convert the units dollars per week.
+>
+>$38,767.85 - $77,541.20
 
-47,000 - 94,000 L/1 hectare /week --> 5, 025 - 10,051 gal/ acre/ week
 
-According to the Board of Water Supply's Agricultural Rates, each dwelling using 6,000 gal/month or more starting July 1, 2025, will be charged $2.81 per thousand gallons.
-
-Let's multiply the range by 4 to convert our units to gallons per acre per month. 
-
-20,100-40,204 gal/acre/month
-
-Now let's convert are units to every thousand gallons per acre per month, multiply by the rate, and round to the nearest penny.. 
-
-20.1 kgal * 2.81 = $56.48
-40.204 kgal * 2.81 = $112.97
-
-This means it costs $56.48 - $112.97 to water an acre of pineapples for a month. 
-
-Let's multiply the range by our 2,745.55 acres of pineapples to get:
-
-$155,071.41 - $310,164.78
-
-Then divide the range by 4 to convert the units dollars per week.
-
-$38,767.85 - $77,541.20
-
-```
 According to Claude.ai, a pineapple farmer may harvest 15,000-20,000 pineapples per acre every 3-4 years. Pineapples cost about \\$6 at Amazon Whole Foods. Using those numbers, a 2,745.55-acre farm may generate \\$250 - \\$330 M in revenue. Using the dollar range I calculated for water cost per week, I estimate it could cost \\$6 - \\$16 M to water one's pineapple farm until the first harvest assuming the farm was irrigated year-round.
 
 I believe our problem is that we must simulate perfect weather conditions without a true ability to control the weather for optimal plant growth. A traditional drip irrigation system runs on a schedule whereas an automatic irrigation system is soil moisture sensor-based. Given that rainfall varies throughout the year, there is an opportunity to save on water from the Board of Water Supply System, by having irrigation systems able to turn off when detecting rainfall. An automatic irrigation system still may be too expensive to justify the savings in water use.
