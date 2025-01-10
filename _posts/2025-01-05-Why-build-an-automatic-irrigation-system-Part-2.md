@@ -1,5 +1,7 @@
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXl1cDRjMW9wOWw3a3Vsa3plNGdjb2NraG5rajFxcTE3emZlNGpubyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/G0Odfjd78JTpu/giphy.gif">
 
+Reading Why Build an Automatic Watereing System Part 1 [here](https://communicate.garden/2024/11/30/Why-build-an-automatic-irrigation-system-Part-1.html).
+
 I was first inspired to build an automatic irrigation system by watching Grady Hillhouse's YouTube video, [Arduino Garden Controller - Automatic Watering and Data Logging](https://www.youtube.com/watch?v=O_Q1WKCtWiA). He concluded the video with the idea that the Arduino is one of many products marketed to "makers" and that these products are solutions looking for problems. Hillhouse's words resonate as I attempt to tackle the question, "Why build an automatic irrigation system?" for the second time. 
 
 In my previous blog post, I pointed in many directions to define my problem. I offered that my plants were dying due to:
@@ -59,7 +61,7 @@ According to Claude.ai, a pineapple farmer may harvest 15,000-20,000 pineapples 
 
 I believe our problem is that we must simulate perfect weather conditions without a true ability to control the weather for optimal plant growth. A traditional drip irrigation system runs on a schedule whereas an automatic irrigation system is soil moisture sensor-based. Given that rainfall varies throughout the year, there is an opportunity to save on water from the Board of Water Supply System, by having irrigation systems able to turn off when detecting rainfall. An automatic irrigation system still may be too expensive to justify the savings in water use.
 
-It may be easier to justify using an automatic irrigation system to grow food on a submarine or spaceship, where freshwater is irrefutably scarce and the budgets are bigger. I'm building an automatic irrigation system for one of my plants to learn electrical engineering, programming, and networking skills. 
+It may be easier to justify using an automatic irrigation system to grow food on a submarine or spaceship, where freshwater is irrefutably scarce and the budgets are bigger. I'm building an automatic irrigation system for one of my plants in the garden to learn electrical engineering, programming, and networking skills. Since I am not selling my plants and increases in efficiency would save me only pennies rather than millions, the thing of value I am producing is probably knowledge. I don't have a green house or acre of land to further agricultral science, but using technology to turn my balcony into a more controlled environment will help me obtainer cleaner data to answer scientific questions. 
 
 [^1]: “How Much Does It Cost to Grow or Produce Your Product? - Gofarm Hawaii.” GoFarm Hawaii - GoFarm Hawaii, The University of Hawaii, 18 Oct. 2018, gofarmhawaii.org/how-much-does-it-cost-to-grow-or-produce-your-product/. 
 
