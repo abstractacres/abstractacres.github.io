@@ -13,7 +13,7 @@ In my previous blog post, I pointed in many directions to define my problem. I o
 
 November 26, 2024 I decided to improve overall as a gardener and start to log when I watered my plants and what phenomena I observed. The results are in the table below:
 
-| Common Name   | Scientific Name | WaterLog1 (11/26-30/25) |  WaterLog 2 (12/17/25)| WaterLog3(12/28/24)| WaterLog4 (1/5/2025)|
+| Common Name   | Scientific Name | WaterLog1(11/26-30/25) | WaterLog2(12/17/25) | WaterLog3(12/28/24)| WaterLog4(1/5/2025) |
 | -------- | ------- | -------- | ------- | -------- | ------- | 
 | Ghost Plant  | *Graptopetalum paraguayense*    | Indoors, 21 leaves, attracted cobwebs. | The top of the stem broke off. 16 leaves. |15 leaves. | 15 leaves. Looks droopy. Moved outside.|
 | Black Prince | *Echeveria*     | Lost one of two plants. | 20 leaves. | Looks more green than purple.| No observable changes|
