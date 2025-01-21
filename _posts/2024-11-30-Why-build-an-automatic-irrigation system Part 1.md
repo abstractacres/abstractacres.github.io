@@ -3,7 +3,7 @@
 
 My plants need more attention. Inspired by [Grady Hillhouse](https://www.youtube.com/watch?v=O_Q1WKCtWiA),  I have challenged myself to build an automatic irrigation system.
 
- The first step of the [engineering design process](https://www.youtube.com/watch?v=MFGg1calQ6k) is problem definition. Before jumping into the fun of building an automatic irrigation system for Communicate.garden, we must understand what problem we're addressing. This prevents wasted time, energy, and resources. 
+ The first step of the [engineering design process](https://www.youtube.com/watch?v=MFGg1calQ6k) is problem definition. Before jumping into the fun of building an automatic irrigation system for my garden, we must understand what problem we're addressing. This prevents wasted time, energy, and resources. 
 
 I manually irrigate my garden using a 2-gallon watering can. Using a watering can to irrigate plants may lead to waste or underwatering. Watering cans dispense imprecise amounts of water and plants have specific requirements for water. The following is a table outlining the volume of water and frequency of watering each of my plants needs. These values were calculated using the plant identifier app, [PictureThis](https://www.picturethisai.com), along with additional data such as plant container size and estimations of sun exposure.
 
