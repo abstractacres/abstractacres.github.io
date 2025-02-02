@@ -13,8 +13,10 @@ We use the formula for the circumference of a sphere to determine the length o
 
 >$$2\pi(6,731) = 40,030 km$$
 
-To calculate the number of imaging swaths needed to cover the rotating earth divide 40,030 km by the double ground track by 2 to account for the fact that the satellite crosses the equator twice in one orbit
-86.65 swaths
+To calculate the number of imaging swaths needed to cover the rotating earth divide 40,030 km by the double ground track by 2 to account for the fact that the satellite crosses the equator twice in one orbit:
+
+>$$\frac{40,030 km}{2*231 km} = 86.65 swaths$$
+
 Now letʻs add the variable of time. If it takes 86.65 swaths to cover the Earth and this is accomplished in 6 days, then
 86.65 swaths / 6 days = 14.4 orbits/day
 to finally find how much data is produced by NISA divide 85 TB/day by 14.4 orbits/day to equal 
