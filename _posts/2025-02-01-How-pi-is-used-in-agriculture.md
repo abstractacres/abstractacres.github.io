@@ -11,7 +11,7 @@ The choice to eat foods that store well and to invest in storage infrastructure 
 
 We use the formula for the circumference of a sphere to determine the length of one orbit on the earth.
 
->$$40,030 km$$
+>$$2\pi(6,731) = 40,030 km$$
 
 To calculate the number of imaging swaths needed to cover the rotating earth divide 40,030 km by the double ground track by 2 to account for the fact that the satellite crosses the equator twice in one orbit
 86.65 swaths
