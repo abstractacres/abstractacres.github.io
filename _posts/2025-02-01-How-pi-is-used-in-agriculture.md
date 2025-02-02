@@ -9,11 +9,11 @@ The choice to eat foods that store well and to invest in storage infrastructure 
 
 > NISAR will produce more than 85 terabytes of data products every day, orbit the earth twice every 12 days, and has an imaging swath of 240 kilometers, but the ground track spacing is 231 km to allow overlap between swaths. Given that Earth’s radius is 6,371 km, how many orbits are executed in one day? How much data is produced per orbit on average?
 
-We use the formula for the circumference of a sphere to determine the length of one orbit on the earth.
+We use the formula for the circumference of a sphere to determine the length of one orbit around the Earth.
 
 >$$2\pi(6,731 km) = 40,030 km$$
 
-To calculate the number of imaging swaths needed to cover the rotating earth divide 40,030 km by the double ground track by 2 to account for the fact that the satellite crosses the equator twice in one orbit:
+To calculate the number of imaging swaths needed to cover the rotating Earth divide 40,030 km by double the length ground track to account for the fact that the satellite crosses the equator twice in one orbit:
 
 >$$\frac{40,030 km}{2*231 km} = 86.65 swaths$$
 
