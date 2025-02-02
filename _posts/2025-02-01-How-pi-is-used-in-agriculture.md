@@ -23,7 +23,7 @@ Now letʻs add the variable of time. If it takes 86.65 swaths to cover the Ear
 
 To finally find how much data is produced by NISA divide 85 TB/day by 14.4 orbits/day to equal 
 
->$$85 TB * \frac{1 day} 14.4 orbits} = 5.9 \frac{TB}{orbit}$$
+>$$85 TB * \frac{1 day}{14.4 orbits} = 5.9 \frac{TB}{orbit}$$
 
 [Here](https://www.jpl.nasa.gov/edu/resources/project/the-nasa-pi-day-challenge/) is a link to 2024 pi day questions and the answer key to the question I just walked through
 Humanity has taken our understanding of circles to build systems to help us understand Earth from space and this has changed agriculture. Satellites also play a role in GPS-controlled tractors, so not only are we observing farms from space, but we are running farm operations using real-time satellite data. 
