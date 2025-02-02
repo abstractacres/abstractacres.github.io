@@ -1,5 +1,5 @@
 
-Pi is a mathematical constant that represents the ratio of a circle's circumference to its diameter. According to Dominic Olivastro, the author of the 1997 article, In Pursuit of Pi, for nearly a thousand years from its origin, pi was used a rough tool for measuring circular plots of land. He writes:
+Pi is a mathematical constant that represents the ratio of a circle's circumference to its diameter. According to Dominic Olivastro, the author of the 1997 article, *In Pursuit of Pi*[^1], for nearly a thousand years from its origin, pi was used a rough tool for measuring circular plots of land. He writes:
 
 "The earliest known estimate of pi is contained in an Egyptian scroll dating back to 1650 B.c. The Rhind mathematical papyrus sets forth eighty-four problems and their solutions. Problem number fifty assumes that the area of a circle with a diameter of nine units is the same as that of a square with sides of eight units. The assumption is incorrect, but it was probably meant only as an approximation, and it is a very good approximation at that. By setting the Egyptian formula equal to the correct formula (pi times the radius squared), you will find that the papyrus implicitly set pi equal to about 3.1605. (About the same time, the
 Babylonians estimated pi to be 3.125, a value only slightly superior.)"
