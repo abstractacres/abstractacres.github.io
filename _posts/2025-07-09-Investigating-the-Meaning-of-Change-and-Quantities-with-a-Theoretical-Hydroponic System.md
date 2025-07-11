@@ -4,7 +4,7 @@ As I work my way through Khan Academy's Calculus 2 curriculumn, I intend to take
 
 In the Khan Academy article, ["Exploring accumulation of change"](https://www.khanacademy.org/math/calculus-2/cs2-integrals-review/cs2-accumulations-of-change-introduction/a/accumulation-and-net-change-in-context), there is a reminder to distinguish between the net change of a quantity and the value of an actual quantity.
 
-Consider a farmer monitoring nitrate (NO<sub>3</sub><sup>-</sup>) concentrations in their hydroponic system. Over the course of 24 hours, let $R(t)$ be the rate nitrate is added to the system and let $C(t)$ be the rate nitrate is consumbed by plants and is lost to evaporation. 
+Consider a farmer monitoring nitrate (NO<sub>3</sub><sup>-</sup>) concentrations in their hydroponic system. Over the course of 24 hours, let $R(t)$ be the rate nitrate is added to the system and let $C(t)$ be the rate nitrate is consumed by plants and is lost to evaporation. 
 
 $$R(t) = 0.5 + 0.3sin(\frac{\pi t}{12})\:ppm/hr$$
 
@@ -96,7 +96,7 @@ $$\int 0.3 sin(u)\frac{12}{\pi}\,du$$
 
 We can bring the constants in front of the integral due to the [rule of linearity](https://math.mit.edu/~djk/calculus_beginners/chapter03/section03.html):
 
-$$0.3* \frac{12}{\pi}\int sin(u)\frac{12}{\pi}\,du$$
+$$0.3* \frac{12}{\pi}\int sin(u)\,du$$
 
 Knowledge of basic integration functions such as
 
