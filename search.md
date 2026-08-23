@@ -13,13 +13,13 @@ permalink: /search/
 <script src="https://unpkg.com/simple-jekyll-search@latest/dest/simple-jekyll-search.min.js"></script>
 
 <!-- The initialization code from your screenshot -->
+
 <script>
-  var sjs = SimpleJekyllSearch({
-    searchInput: document.getElementById('search-input'),
-    resultsContainer: document.getElementById('results-container'),
-    json: '{{ "/search.json" | relative_url }}',
-    searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
-    noResultsText: 'No results found',
-    limit: 10
-  })
+  
+var sjs = SimpleJekyllSearch({
+  searchInput: document.getElementById('search-input'),
+  resultsContainer: document.getElementById('results-container'),
+  json: '/search.json'
+})
+
 </script>
