@@ -19,6 +19,7 @@ permalink: /search/
 var sjs = SimpleJekyllSearch({
   searchInput: document.getElementById('search-input'),
   resultsContainer: document.getElementById('results-container'),
+  searchFields: ['title', 'category', 'tags', 'url', 'date', 'content'],
   json: '/search.json'
 })
 
